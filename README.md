@@ -1,4 +1,4 @@
-# Wordle Solver - Assignment 3
+# Wordle Solver
 
 **Author:** Tan Karageldi
 
